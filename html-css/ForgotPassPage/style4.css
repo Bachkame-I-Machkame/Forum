@@ -1,0 +1,78 @@
+html {
+    background-image: url("background2.jpg");
+}
+
+body {
+    position: relative;
+    border: 5px;
+    border-style: solid;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 550px;
+    top: 190px;
+    background-color: #579DAC;
+}
+
+#d1 {
+    font-size: 55px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 10%;
+    padding-left: 27%;
+    color: white;
+}
+
+#d2 {
+    font-size: 55px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 0%;
+    padding-left: 35%;
+    color: white;
+}
+
+#d3 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 5%;
+    padding-left: 21%;
+    color: black;
+}
+
+.in1 {
+    border: 4px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 340px;
+    height: 30px;
+    margin-left: 20%;
+}
+
+.b1 {
+    background-color: black;
+    height: 65px;
+    width: 175px;
+    border-style: solid;
+    border-radius: 100px;
+    border-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-top: 5%;
+    margin-left: 35%;
+}
+
+.b2 {
+    background-color: black;
+    background-color: black;
+    height: 65px;
+    width: 175px;
+    border-style: solid;
+    border-radius: 100px;
+    border-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-top: 5%;
+    margin-left: 35%;
+}
